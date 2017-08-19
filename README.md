@@ -1,2 +1,2 @@
 # code-school-react
-Code School's React tutorial
+Code School's React tutorial.
